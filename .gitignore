@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.exe
+*.zip
+*.pkt
+*.pdf
+*.docx
+*.vbox-extpack
+certs/*.key
